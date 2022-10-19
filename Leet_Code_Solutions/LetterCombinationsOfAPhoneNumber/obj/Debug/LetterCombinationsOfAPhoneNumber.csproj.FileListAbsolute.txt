@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.pdb

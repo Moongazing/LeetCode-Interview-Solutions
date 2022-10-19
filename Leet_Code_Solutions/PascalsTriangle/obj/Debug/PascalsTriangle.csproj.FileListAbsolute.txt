@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\bin\Debug\PascalsTriangle.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\bin\Debug\PascalsTriangle.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\bin\Debug\PascalsTriangle.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\obj\Debug\PascalsTriangle.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\obj\Debug\PascalsTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\obj\Debug\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\obj\Debug\PascalsTriangle.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PascalsTriangle\obj\Debug\PascalsTriangle.pdb

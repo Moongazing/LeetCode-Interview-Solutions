@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\bin\Debug\PlusOne.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\bin\Debug\PlusOne.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\bin\Debug\PlusOne.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\obj\Debug\PlusOne.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\obj\Debug\PlusOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\obj\Debug\PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\obj\Debug\PlusOne.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PlusOne\obj\Debug\PlusOne.pdb

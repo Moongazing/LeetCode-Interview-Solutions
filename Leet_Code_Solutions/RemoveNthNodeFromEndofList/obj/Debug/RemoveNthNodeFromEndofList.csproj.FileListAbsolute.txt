@@ -1,0 +1,3 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RemoveNthNodeFromEndofList\obj\Debug\RemoveNthNodeFromEndofList.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RemoveNthNodeFromEndofList\obj\Debug\RemoveNthNodeFromEndofList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RemoveNthNodeFromEndofList\obj\Debug\RemoveNthNodeFromEndofList.csproj.CoreCompileInputs.cache

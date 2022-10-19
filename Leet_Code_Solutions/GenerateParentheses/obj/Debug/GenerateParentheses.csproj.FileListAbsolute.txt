@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\bin\Debug\GenerateParentheses.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\bin\Debug\GenerateParentheses.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\bin\Debug\GenerateParentheses.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\obj\Debug\GenerateParentheses.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\obj\Debug\GenerateParentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\obj\Debug\GenerateParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\obj\Debug\GenerateParentheses.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\GenerateParentheses\obj\Debug\GenerateParentheses.pdb

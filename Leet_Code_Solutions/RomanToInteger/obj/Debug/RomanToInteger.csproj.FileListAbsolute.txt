@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\obj\Debug\RomanToInteger.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\obj\Debug\RomanToInteger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\obj\Debug\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\bin\Debug\RomanToInteger.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\bin\Debug\RomanToInteger.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\bin\Debug\RomanToInteger.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\obj\Debug\RomanToInteger.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\RomanToInteger\obj\Debug\RomanToInteger.pdb

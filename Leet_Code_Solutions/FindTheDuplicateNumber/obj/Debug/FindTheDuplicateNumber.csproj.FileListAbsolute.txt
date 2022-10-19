@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\bin\Debug\FindTheDuplicateNumber.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\bin\Debug\FindTheDuplicateNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\bin\Debug\FindTheDuplicateNumber.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.pdb

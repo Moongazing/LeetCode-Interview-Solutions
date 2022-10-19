@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\bin\Debug\MinimumMovesToConvertString.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\bin\Debug\MinimumMovesToConvertString.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\bin\Debug\MinimumMovesToConvertString.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\obj\Debug\MinimumMovesToConvertString.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\obj\Debug\MinimumMovesToConvertString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\obj\Debug\MinimumMovesToConvertString.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\obj\Debug\MinimumMovesToConvertString.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\MinimumMovesToConvertString\obj\Debug\MinimumMovesToConvertString.pdb

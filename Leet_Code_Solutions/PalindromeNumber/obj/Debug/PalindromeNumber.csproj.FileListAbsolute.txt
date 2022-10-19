@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\Leet_Code_Solutions\PalindromeNumber\obj\Debug\PalindromeNumber.pdb
